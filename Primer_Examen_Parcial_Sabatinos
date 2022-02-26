@@ -1,0 +1,5 @@
+h=int(input("dame un numero:"))
+b = 0
+for a in range(h):
+  b=b+a+1
+print("resultado:"b)
